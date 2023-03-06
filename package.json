@@ -13,7 +13,7 @@
     "singleQuote": true,
     "semi": false,
     "trailingComma": "all",
-    "endOfLine": "crlf"
+    "endOfLine": "lf"
   },
   "dependencies": {
     "firebase": "^9.17.2",
